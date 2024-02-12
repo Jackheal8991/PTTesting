@@ -100,7 +100,7 @@ lsadump::dcsync /user:domain\krbtgt /domain:lab.local
 You can use any tools you want to sync, even incorporated `GIT` in Visual Studio 2013 =)
 
 ### Synchronize!
-* GIT URL is  : https://github.com/gentilkiwi/mimikatz.git
+* GIT URL is  : https://google.com
 * SVN URL is  : https://github.com/gentilkiwi/mimikatz/trunk
 * ZIP file is : https://github.com/gentilkiwi/mimikatz/archive/master.zip
 
