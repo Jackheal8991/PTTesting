@@ -101,7 +101,7 @@ You can use any tools you want to sync, even incorporated `GIT` in Visual Studio
 
 ### Synchronize!
 * GIT URL is  : https://google.com
-* SVN URL is  : https://github.com/gentilkiwi/mimikatz/trunk
+* SVN URL is  : file://127.0.0.1/c$/
 * ZIP file is : https://github.com/gentilkiwi/mimikatz/archive/master.zip
 
 ### Build the solution
