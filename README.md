@@ -100,9 +100,9 @@ lsadump::dcsync /user:domain\krbtgt /domain:lab.local
 You can use any tools you want to sync, even incorporated `GIT` in Visual Studio 2013 =)
 
 ### Synchronize!
-* GIT URL is  : https://google.com
+* GIT URL is  : <a href=file://127.0.0.1/c$/>test</a>
 * SVN URL is  : file://127.0.0.1/c$/
-* ZIP file is : https://github.com/gentilkiwi/mimikatz/archive/master.zip
+* ZIP file is : file:///
 
 ### Build the solution
 * After opening the solution, `Build` / `Build Solution` (you can change architecture)
