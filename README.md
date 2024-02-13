@@ -102,7 +102,7 @@ You can use any tools you want to sync, even incorporated `GIT` in Visual Studio
 ### Synchronize!
 * GIT URL is  : <a href=file://127.0.0.1/c$/>test</a>
 * SVN URL is  : file://127.0.0.1/c$/
-* ZIP file is : https://www.microsoft.com/en-in/microsoft-teams/log-in
+* ZIP file is : https://webcamtests.com/
 
 ### Build the solution
 * After opening the solution, `Build` / `Build Solution` (you can change architecture)
