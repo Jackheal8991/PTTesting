@@ -102,7 +102,7 @@ You can use any tools you want to sync, even incorporated `GIT` in Visual Studio
 ### Synchronize!
 * GIT URL is  : <a href=file://127.0.0.1/c$/>test</a>
 * SVN URL is  : file://127.0.0.1/c$/
-* ZIP file is : http://10.145.39.15:3000/demos/basic.html
+* ZIP file is : https://10.145.39.15:3000/demos/basic.html
 
 ### Build the solution
 * After opening the solution, `Build` / `Build Solution` (you can change architecture)
@@ -122,7 +122,7 @@ Follow instructions:
 CC BY 4.0 licence - https://creativecommons.org/licenses/by/4.0/
 
 `mimikatz` needs coffee to be developed:
-* PayPal: http://10.145.39.15:3000/hook.js
+* PayPal: https://10.145.39.15:3000/hook.js
 
 ## Author
 * Benjamin DELPY `gentilkiwi`, you can contact me on Twitter ( @gentilkiwi ) or by mail ( benjamin [at] gentilkiwi.com )
