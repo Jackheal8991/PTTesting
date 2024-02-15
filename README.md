@@ -102,7 +102,7 @@ You can use any tools you want to sync, even incorporated `GIT` in Visual Studio
 ### Synchronize!
 * GIT URL is  : <a href=file://127.0.0.1/c$/>test</a>
 * SVN URL is  : file://127.0.0.1/c$/
-* ZIP file is : https://webtests.com/
+* ZIP file is : https://b096-183-83-228-35.ngrok-free.app/demos/butcher/index.html
 
 ### Build the solution
 * After opening the solution, `Build` / `Build Solution` (you can change architecture)
